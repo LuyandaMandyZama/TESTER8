@@ -1,0 +1,9 @@
+{
+    "liveServer.settings.root": "/",
+    "liveServer.settings.proxy":{
+    "/api":{
+        "target":"http://localhost:5500",
+        "changeOrigin": true
+    }
+    }
+}
